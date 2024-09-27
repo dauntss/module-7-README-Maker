@@ -1,6 +1,6 @@
 # Module 7 Challenge
 
-![license](https://img.shields.io/badge/License-MIT-blue) 
+![license](https://img.shields.io/badge/License-None-blue) 
 [![dauntss](https://img.shields.io/badge/created_by-dauntss-deeppink)](http://github.com/dauntss)
 
 ## Description
@@ -16,11 +16,11 @@ This is a CLI application that will create a comprehensive README.md for any pro
 
 ## Installation
 
-Example
+Open the repository and run ```node index.js```
 
 ## Usage
 
-Create your own custom README.md
+Create your own custom README.md for any project.
 
 ## Contributing
 
@@ -28,7 +28,7 @@ Inquirer
 
 ## License 
 
-Licensed under MIT
+Licensed under None
 
 ## Tests
 
