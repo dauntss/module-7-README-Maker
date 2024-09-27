@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a CLI application that will create a comprehensive README.md for any project!
+This is a CLI application that will create a comprehensive  README.md file for any project!
 
 ## Table of Contents
 
