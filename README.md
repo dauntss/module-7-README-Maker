@@ -7,6 +7,10 @@
 
 This is a CLI application that will create a comprehensive README.md for any project!
 
+https://github.com/user-attachments/assets/f330e738-de0b-431e-bf5e-d0a4b0dba893
+
+[View on GDrive](https://drive.google.com/file/d/1VD-Oewxo_1MyYmwjNukIU1S8fSaJhNHL/view?usp=sharing)
+
 ## Table of Contents
 
 - [Installation](#installation)
