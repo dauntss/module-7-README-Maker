@@ -28,7 +28,7 @@ Create your own custom README.md for any project.
 
 ## Contributing
 
-Inquirer
+[Inquirer](https://www.npmjs.com/package/@inquirer/prompts)
 
 ## License 
 
